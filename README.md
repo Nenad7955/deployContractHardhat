@@ -15,5 +15,5 @@ npx hardhat ignition deploy ./ignition/modules/Lock.ts
 
 
 ```
-npx hardhat run .\scripts\deploy.ts --network local
+npx hardhat run .\scripts\deploy2.ts --network local
 ```
